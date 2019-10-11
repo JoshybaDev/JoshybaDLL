@@ -1,0 +1,123 @@
+﻿Joshyba.dll
+desarrollado por Ing. Jose Israel Gomez Rodriguez
+JoshybaCorpDevelopments.
+
+===============================================
+Version 1.2703.2019.01
+- Se añadio la capacidad de que al rellenar un pdf, se pueda mandar sellado o no
+===============================================
+Version 1.1005.2017.01-
+- Correciones y mejoras al calculo del CAT
+===============================================
+Version 1.0205.2017.01-
+- Correciones y mejoras al calculo del CAT
+===============================================
+Version 1.0711.2016.01-
+- Se añadio una funcion para contar aparecimiento de caracter en una cadena a la funcion Cadenas.
+===============================================
+Version 1.0410.2016.01-
+- Se añadio transcaccion segura a el Manejador de SqlServer
+===============================================
+Version 1.0410.2016.01-
+- Se utyilizo y modifico la funcion de copiado rapido de un datagridview a excel
+===============================================
+Version 1.1409.2016.01-
+- Se añadio un try catch a la funcion Numeros a letras
+
+===============================================
+Version 1.1507.2016.01-
+- se añadio la funcion SendToExcel(DataTable dataTable, bool formatted) a ExcelFull
+- Se añadio la funciones Get_HASH_SHA512(string password, string username, byte[] salt) as Criptografía
+===============================================
+Version 1.1407.2016.01-
+-Se corrigio clase ExcelFull para que cuando se importe desde excel se tome el contenido de celdas como texto y no como valor
+===============================================
+Version 1.0907.2016.01-
+-Se corrigio el numero de columnas tomadas en el documento de EXCEL en la clase ExcelFull
+===============================================
+Version 1.2016.0628.01-
+-	Se le añadio al manejador de Sql Server la capacidad de mostrar cuantas filas afecto.
+	en el a funcion:
+-	_Datatable_Ejecutar_Consultas(SqlConnection xCon, string Nombre_procedimiento)
+-	_Datatable_Ejecutar_Consultas(SqlConnection xCon, string Nombre_procedimiento, object[,] parametros = null)
+===============================================
+Version 1.2016.0624.01-
+-Se le añadio la capacidad de poder añadir el numero de fila cuando se importa
+un excel desde la clase ExcelFull
+
+===============================================
+Version 1.2016.0530.01-
+-Se le añadio la capacidad de aceptar punto decimal en la clase TextBoxFullNumeric
+===============================================
+Version 1.2016.0307.01-
+	-Se creo una clase Ordenamiento_QUICKSORT para ordenar una lista de arreglos
+	- se creo una funcion para generar numero de ticket para las cuotas afectadas
+===============================================
+Version 1.2016.0115.01-
+	-Se creo una funcion mas _Datatable_Ejecutar_Consultas para aceptar una lista de parametros
+===============================================
+Version 1.2015.1127.01-
+-	Se	corrigio un bug para añadir parametros en Manejado_Sql_Server
+=========================================================================
+Version 1.2015.1020.01
+	-Se añadio un parametro opcional de instancia a Lecto_Escri_MuchasLineas(Encoding.ASCII) para escribir archivos bat;
+	 si no se coloca el default es UTF8.
+===============================================
+Version 1.2015.1012.01-
+	-Se	añadio la clase Parametros para añadir parametros en Manejado_Sql_Server
+	-Se creo una funcion mas donde se acepta este parametro!!
+===============================================
+Version 1.2015.1010.01-
+-	Se convirtio el tipo del campo parametros de STRING A OBJECT
+===============================================
+Version 1.2015.0826.01
+-	Correcion de errores
+===============================================
+Version 1.2015.0228.01
+-	se añadio funcion nueva pinta datagridview para exclui el formato money la columna deseada
+-	textboxfull para letras con fondo
+===============================================
+Version 1.2015.0220.01
+-	Se añadio formatos en el pintar_datagridview
+===============================================
+Version 1.2015.0211.01
+-	Se añadio comentario de la funcion escribir_linea_full
+-	Se añadio una funcion que escribe una linea sin retorno de carro
+===============================================
+Version 1.2014.1112.01
+-	textboxfullNumeric para solo numeros con fondo
+-	textboxfull para letras con fondo
+===============================================
+Version 1.2014.07.07
+-	Clase Excepciones bien descritas
+-	Clase para generar un identificador ABC-000001
+-	Clase para liberar ram
+-	Clase para la 1ra letra en mayusculas
+-	Clase para rellenar los pdf en su formulario
+===============================================
+Version 1.2014.06.19
+-	Clase ventana de tiempo
+-	Clase para leer archivos CSV
+
+===============================================
+Version 1.2014.06.19
+-	Función que retorna la ruta del archivo
+-	Función que retorna el numero de filas
+
+===============================================
+Version 1.2014.05.24
+-	Barra de espera del cat y creacion de la misma funcion sin log
+
+===============================================
+Version 1.2014.05.23
+-	calculo del CAT perfecto con log
+
+**************************************************************************************************************
+ Conocer saber las tarjetas de red desde Visual Basic .Net
+Conocer las tarjetas de red que tenemos instaladas en nuestro sistema utilizando Visual Basic .Net es realmente sencillo. Para comentar deberemos importar el espacio de nombres System.Net.NetworkInformation
+
+A continuación, con este sencillo bucle for each tendremos acceso a cada una de ellas:
+
+For Each nic As NetworkInterface In NetworkInterface.GetAllNetworkInterfaces()
+  MessageBox.Show(nic.Description.ToString)
+Next

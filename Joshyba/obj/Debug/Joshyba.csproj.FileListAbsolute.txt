@@ -1,0 +1,24 @@
+C:\Users\Joshyba\Documents\Visual Studio 2015\Projects\Joshyba\Joshyba\bin\Debug\Joshyba.dll
+C:\Users\Joshyba\Documents\Visual Studio 2015\Projects\Joshyba\Joshyba\bin\Debug\Joshyba.pdb
+C:\Users\Joshyba\Documents\Visual Studio 2015\Projects\Joshyba\Joshyba\obj\Debug\Joshyba.Controles.BarraProgresoCircular.resources
+C:\Users\Joshyba\Documents\Visual Studio 2015\Projects\Joshyba\Joshyba\obj\Debug\Joshyba.Controles.TextBoxFullBordes.resources
+C:\Users\Joshyba\Documents\Visual Studio 2015\Projects\Joshyba\Joshyba\obj\Debug\Joshyba.Controles.TextBoxNumeric.resources
+C:\Users\Joshyba\Documents\Visual Studio 2015\Projects\Joshyba\Joshyba\obj\Debug\Joshyba.Properties.Resources.resources
+C:\Users\Joshyba\Documents\Visual Studio 2015\Projects\Joshyba\Joshyba\obj\Debug\Joshyba.Controles.TextFull.resources
+C:\Users\Joshyba\Documents\Visual Studio 2015\Projects\Joshyba\Joshyba\obj\Debug\Joshyba.csproj.GenerateResource.Cache
+C:\Users\Joshyba\Documents\Visual Studio 2015\Projects\Joshyba\Joshyba\obj\Debug\Joshyba.dll
+C:\Users\Joshyba\Documents\Visual Studio 2015\Projects\Joshyba\Joshyba\obj\Debug\Joshyba.pdb
+C:\Users\Joshyba\Documents\Visual Studio 2015\Projects\Joshyba\Joshyba\obj\Debug\Joshyba.csprojResolveAssemblyReference.cache
+C:\Trabajo\CONCEDE\Proyectos\Joshyba\Joshyba\bin\Debug\Joshyba.dll
+C:\Trabajo\CONCEDE\Proyectos\Joshyba\Joshyba\bin\Debug\Joshyba.pdb
+C:\Trabajo\CONCEDE\Proyectos\Joshyba\Joshyba\obj\Debug\Joshyba.csprojAssemblyReference.cache
+C:\Trabajo\CONCEDE\Proyectos\Joshyba\Joshyba\obj\Debug\Joshyba.Controles.BarraProgresoCircular.resources
+C:\Trabajo\CONCEDE\Proyectos\Joshyba\Joshyba\obj\Debug\Joshyba.Controles.TextBoxFullBordes.resources
+C:\Trabajo\CONCEDE\Proyectos\Joshyba\Joshyba\obj\Debug\Joshyba.Controles.TextBoxNumeric.resources
+C:\Trabajo\CONCEDE\Proyectos\Joshyba\Joshyba\obj\Debug\Joshyba.Properties.Resources.resources
+C:\Trabajo\CONCEDE\Proyectos\Joshyba\Joshyba\obj\Debug\Joshyba.Controles.TextFull.resources
+C:\Trabajo\CONCEDE\Proyectos\Joshyba\Joshyba\obj\Debug\Joshyba.csproj.GenerateResource.cache
+C:\Trabajo\CONCEDE\Proyectos\Joshyba\Joshyba\obj\Debug\Joshyba.csproj.CoreCompileInputs.cache
+C:\Trabajo\CONCEDE\Proyectos\Joshyba\Joshyba\obj\Debug\Joshyba.csproj.CopyComplete
+C:\Trabajo\CONCEDE\Proyectos\Joshyba\Joshyba\obj\Debug\Joshyba.dll
+C:\Trabajo\CONCEDE\Proyectos\Joshyba\Joshyba\obj\Debug\Joshyba.pdb
