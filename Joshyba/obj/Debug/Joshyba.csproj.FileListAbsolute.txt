@@ -22,3 +22,16 @@ C:\Trabajo\CONCEDE\Proyectos\Joshyba\Joshyba\obj\Debug\Joshyba.csproj.CoreCompil
 C:\Trabajo\CONCEDE\Proyectos\Joshyba\Joshyba\obj\Debug\Joshyba.csproj.CopyComplete
 C:\Trabajo\CONCEDE\Proyectos\Joshyba\Joshyba\obj\Debug\Joshyba.dll
 C:\Trabajo\CONCEDE\Proyectos\Joshyba\Joshyba\obj\Debug\Joshyba.pdb
+C:\Users\MacBook Pro\Documents\Visual Studio 2017\Projects\JoshybaDLL\Joshyba\bin\Debug\Joshyba.dll
+C:\Users\MacBook Pro\Documents\Visual Studio 2017\Projects\JoshybaDLL\Joshyba\bin\Debug\Joshyba.pdb
+C:\Users\MacBook Pro\Documents\Visual Studio 2017\Projects\JoshybaDLL\Joshyba\obj\Debug\Joshyba.csprojAssemblyReference.cache
+C:\Users\MacBook Pro\Documents\Visual Studio 2017\Projects\JoshybaDLL\Joshyba\obj\Debug\Joshyba.Controles.BarraProgresoCircular.resources
+C:\Users\MacBook Pro\Documents\Visual Studio 2017\Projects\JoshybaDLL\Joshyba\obj\Debug\Joshyba.Controles.TextBoxFullBordes.resources
+C:\Users\MacBook Pro\Documents\Visual Studio 2017\Projects\JoshybaDLL\Joshyba\obj\Debug\Joshyba.Controles.TextBoxNumeric.resources
+C:\Users\MacBook Pro\Documents\Visual Studio 2017\Projects\JoshybaDLL\Joshyba\obj\Debug\Joshyba.Properties.Resources.resources
+C:\Users\MacBook Pro\Documents\Visual Studio 2017\Projects\JoshybaDLL\Joshyba\obj\Debug\Joshyba.Controles.TextFull.resources
+C:\Users\MacBook Pro\Documents\Visual Studio 2017\Projects\JoshybaDLL\Joshyba\obj\Debug\Joshyba.csproj.GenerateResource.cache
+C:\Users\MacBook Pro\Documents\Visual Studio 2017\Projects\JoshybaDLL\Joshyba\obj\Debug\Joshyba.csproj.CoreCompileInputs.cache
+C:\Users\MacBook Pro\Documents\Visual Studio 2017\Projects\JoshybaDLL\Joshyba\obj\Debug\Joshyba.csproj.CopyComplete
+C:\Users\MacBook Pro\Documents\Visual Studio 2017\Projects\JoshybaDLL\Joshyba\obj\Debug\Joshyba.dll
+C:\Users\MacBook Pro\Documents\Visual Studio 2017\Projects\JoshybaDLL\Joshyba\obj\Debug\Joshyba.pdb

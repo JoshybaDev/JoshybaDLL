@@ -148,5 +148,10 @@ namespace Joshyba
         {
             escritura.Close(); //cierra la escritura
         }
+
+        public void guardar_archivo_full()
+        {
+            escritura.Flush(); //cierra la escritura
+        }
     }
 }
